@@ -393,7 +393,7 @@ body {
     align-items: center;
     border-radius: 4px;
     border: 1px solid var(--LIGHT-SLATE, #8E8F99);
-    color: var(--SLATE, #8E8F99);
+    color: var(--LIGHT-SLATE, #8E8F99);
     
 
 }
