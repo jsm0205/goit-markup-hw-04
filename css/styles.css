@@ -417,6 +417,7 @@ body {
 .footer-social-title {
     color: var(--WHITE, #FFF);
     display: flex;
+    font-weight: 500;
 }
 
 .footer-social-wrap {
@@ -474,7 +475,7 @@ body {
     align-items: center;
     justify-content: center;
     background: var(--IRIS, #4D5AE5);
-    margin-top: 8px;
+    
 }
 
 
